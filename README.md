@@ -118,4 +118,3 @@ This project is open-source. Please check the license file for details.
 ## ⚠️ Disclaimer
 
 This tool provides AI-generated insights and recommendations. Always verify information from multiple sources and use professional judgment for career decisions.</content>
-<parameter name="filePath">c:\Users\DHANUNJAY\BUILDING LLM APPLICATIONS\AI Agents\career-ai-platform\README.md
